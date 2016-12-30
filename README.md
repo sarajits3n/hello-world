@@ -1,2 +1,4 @@
 # hello-world
-hello world repository
+Hello World!
+
+I like web, graphics and UI. Learning UX now!
